@@ -2,6 +2,8 @@
 
 In this lab, I created CustomError objects and uploaded the files to a GitHub repo for the first time.
 
+I also used try, catch, finally for errors.
+
 #### lab-07.js:
 ```javascript
 /*
